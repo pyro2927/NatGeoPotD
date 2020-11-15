@@ -1,0 +1,2036 @@
+{
+  "galleryTitle": "Photo of the Day",
+  "previousEndpoint": "/content/photography/en_US/photo-of-the-day/_jcr_content/.gallery.2020-10.json",
+  "items": [
+    {
+      "image": {
+        "id": "ceea8d10-882e-499e-afbd-724e46f4fb4d",
+        "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.jpg",
+        "title": "Marble Temple",
+        "caption": "Buddhist monks present alms bowls at Wat Benchamabophit, also known as the Marble Temple, in Bangkok, Thailand. The iconic temple is pictured on the back of the five-baht coin in Thai currency.",
+        "credit": "Photograph by Steven Raymer, Nat Geo Image Collection",
+        "asset_source": null,
+        "alt_text": "Buddhist monks in orange robes lining up outside the Marble Temple in Bangkok to present alms bowls",
+        "aspect_ratio": 0.669921875,
+        "height": 1372,
+        "width": 2048,
+        "source_system": {
+          "id": "aem-us",
+          "asset_id": "ceea8d10-882e-499e-afbd-724e46f4fb4d",
+          "account": null,
+          "asset_external_field_name": "guid"
+        },
+        "rights_system": null,
+        "asset_provider": {
+          "id": "ngs_rights_vendor:SPI",
+          "asset_id": "20941",
+          "uri": null
+        },
+        "renditions": [
+          {
+            "width": "133",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.adapt.133.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 130px)"
+          },
+          {
+            "width": "152",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.adapt.152.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 150px)"
+          },
+          {
+            "width": "162",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.adapt.162.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 160px)"
+          },
+          {
+            "width": "210",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.adapt.210.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 205px)"
+          },
+          {
+            "width": "224",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.adapt.224.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 220px)"
+          },
+          {
+            "width": "225",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.adapt.225.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 225px)"
+          },
+          {
+            "width": "280",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.adapt.280.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 280px)"
+          },
+          {
+            "width": "352",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.adapt.352.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 352px)"
+          },
+          {
+            "width": "470",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.adapt.470.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 470px)"
+          },
+          {
+            "width": "536",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.adapt.536.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 536px)"
+          },
+          {
+            "width": "590",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.adapt.590.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 590px)"
+          },
+          {
+            "width": "676",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.adapt.676.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 676px)"
+          },
+          {
+            "width": "710",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.adapt.710.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 710px)"
+          },
+          {
+            "width": "768",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.adapt.768.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 768px)"
+          },
+          {
+            "width": "885",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.adapt.885.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 885px)"
+          },
+          {
+            "width": "945",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.adapt.945.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 945px)"
+          },
+          {
+            "width": "1190",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.adapt.1190.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1190px)"
+          },
+          {
+            "width": "1900",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-14-11-2020_nationalgeographic_20941.adapt.1900.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1900px)"
+          }
+        ],
+        "croppings": []
+      },
+      "internal": true,
+      "pageUrl": "https://www.nationalgeographic.com/photography/photo-of-the-day/2020/11/thailand-temple-buddhist-monks/",
+      "publishDate": "November 14, 2020",
+      "social": {
+        "og:title": "Marble Temple | Nat Geo Photo of the Day",
+        "og:description": "Buddhist monks line up outside Wat Benchamabophit, also known as the Marble Temple, in Bangkok, Thailand, to present alms bowls in this image from our photography archives.",
+        "twitter:site": "@NatGeo"
+      }
+    },
+    {
+      "image": {
+        "id": "aa86e48a-7f6c-4e8d-a0fd-df134011f62d",
+        "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.jpg",
+        "title": "In Transit",
+        "caption": "Travelers await trains at the Trans-Siberian Railroad Station in Novosibirsk, Russia. Novosibirsk is the third largest city in Russia, mainly because of its place on the Ob River and its role as a transportation and commerce hub.",
+        "credit": "Photograph by Dean Conger, Nat Geo Image Collection",
+        "asset_source": null,
+        "alt_text": "Travelers waiting at a train station in Novosibirsk, Russia",
+        "aspect_ratio": 0.67529296875,
+        "height": 1383,
+        "width": 2048,
+        "source_system": {
+          "id": "aem-us",
+          "asset_id": "aa86e48a-7f6c-4e8d-a0fd-df134011f62d",
+          "account": null,
+          "asset_external_field_name": "guid"
+        },
+        "rights_system": null,
+        "asset_provider": {
+          "id": "ngs_rights_vendor:SPI",
+          "asset_id": "621773",
+          "uri": null
+        },
+        "renditions": [
+          {
+            "width": "133",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.adapt.133.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 130px)"
+          },
+          {
+            "width": "152",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.adapt.152.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 150px)"
+          },
+          {
+            "width": "162",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.adapt.162.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 160px)"
+          },
+          {
+            "width": "210",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.adapt.210.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 205px)"
+          },
+          {
+            "width": "224",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.adapt.224.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 220px)"
+          },
+          {
+            "width": "225",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.adapt.225.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 225px)"
+          },
+          {
+            "width": "280",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.adapt.280.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 280px)"
+          },
+          {
+            "width": "352",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.adapt.352.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 352px)"
+          },
+          {
+            "width": "470",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.adapt.470.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 470px)"
+          },
+          {
+            "width": "536",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.adapt.536.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 536px)"
+          },
+          {
+            "width": "590",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.adapt.590.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 590px)"
+          },
+          {
+            "width": "676",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.adapt.676.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 676px)"
+          },
+          {
+            "width": "710",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.adapt.710.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 710px)"
+          },
+          {
+            "width": "768",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.adapt.768.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 768px)"
+          },
+          {
+            "width": "885",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.adapt.885.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 885px)"
+          },
+          {
+            "width": "945",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.adapt.945.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 945px)"
+          },
+          {
+            "width": "1190",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.adapt.1190.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1190px)"
+          },
+          {
+            "width": "1900",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-13-11-2020_nationalgeographic_621773.adapt.1900.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1900px)"
+          }
+        ],
+        "croppings": []
+      },
+      "internal": true,
+      "pageUrl": "https://www.nationalgeographic.com/photography/photo-of-the-day/2020/11/russia-novosibirsk-train-travel/",
+      "publishDate": "November 13, 2020",
+      "social": {
+        "og:title": "In Transit | Nat Geo Photo of the Day",
+        "og:description": "Travelers in Novosibirsk, Russia, wait for their trains in this image from our photography archives.",
+        "twitter:site": "@NatGeo"
+      }
+    },
+    {
+      "image": {
+        "id": "8a4174e6-d6aa-455c-a9ff-510b623dd271",
+        "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.jpg",
+        "title": "Ice Science",
+        "caption": "Scientists study Antarctica's winter ice for life-forms in this photo from the May 1996 issue. Certain organisms such as algae and mites are only found on the frozen continent, so every expedition provides valuable information.",
+        "credit": "Photograph by Maria Stenzel, Nat Geo Image Collection",
+        "asset_source": null,
+        "alt_text": "Scientists in cold-weather gear on a swing suspended over ice forms in Antarctica",
+        "aspect_ratio": 0.66650390625,
+        "height": 1365,
+        "width": 2048,
+        "source_system": {
+          "id": "aem-us",
+          "asset_id": "8a4174e6-d6aa-455c-a9ff-510b623dd271",
+          "account": null,
+          "asset_external_field_name": "guid"
+        },
+        "rights_system": null,
+        "asset_provider": {
+          "id": "ngs_rights_vendor:SPI",
+          "asset_id": "77759",
+          "uri": null
+        },
+        "renditions": [
+          {
+            "width": "133",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.adapt.133.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 130px)"
+          },
+          {
+            "width": "152",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.adapt.152.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 150px)"
+          },
+          {
+            "width": "162",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.adapt.162.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 160px)"
+          },
+          {
+            "width": "210",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.adapt.210.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 205px)"
+          },
+          {
+            "width": "224",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.adapt.224.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 220px)"
+          },
+          {
+            "width": "225",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.adapt.225.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 225px)"
+          },
+          {
+            "width": "280",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.adapt.280.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 280px)"
+          },
+          {
+            "width": "352",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.adapt.352.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 352px)"
+          },
+          {
+            "width": "470",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.adapt.470.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 470px)"
+          },
+          {
+            "width": "536",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.adapt.536.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 536px)"
+          },
+          {
+            "width": "590",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.adapt.590.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 590px)"
+          },
+          {
+            "width": "676",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.adapt.676.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 676px)"
+          },
+          {
+            "width": "710",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.adapt.710.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 710px)"
+          },
+          {
+            "width": "768",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.adapt.768.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 768px)"
+          },
+          {
+            "width": "885",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.adapt.885.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 885px)"
+          },
+          {
+            "width": "945",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.adapt.945.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 945px)"
+          },
+          {
+            "width": "1190",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.adapt.1190.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1190px)"
+          },
+          {
+            "width": "1900",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-12-11-2020_nationalgeographic_77759.adapt.1900.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1900px)"
+          }
+        ],
+        "croppings": []
+      },
+      "internal": true,
+      "pageUrl": "https://www.nationalgeographic.com/photography/photo-of-the-day/2020/11/antarctica-ice-scientist-study/",
+      "publishDate": "November 12, 2020",
+      "social": {
+        "og:title": "Ice Science | Nat Geo Photo of the Day",
+        "og:description": "Scientists are suspended over ice forms to look for signs of life in Antarctica in this image from our photography archives.",
+        "twitter:site": "@NatGeo"
+      }
+    },
+    {
+      "image": {
+        "id": "b1e6272b-6b11-4a55-925d-cdebdb2e0a64",
+        "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.jpg",
+        "title": "Armistice Day",
+        "caption": "President Franklin Delano Roosevelt leads a ceremony at the Tomb of the Unknown Soldier on Armistice Day in 1936. The tomb, located in Arlington National Cemetery, honors members of the military who have died but cannot be identified.",
+        "credit": "Photograph by J. Baylor Roberts, Nat Geo Image Collection",
+        "asset_source": null,
+        "alt_text": "President Franklin Delano Roosevelt leading a memorial ceremony at the Tomb of the Unknown Soldier",
+        "aspect_ratio": 0.685546875,
+        "height": 1404,
+        "width": 2048,
+        "source_system": {
+          "id": "aem-us",
+          "asset_id": "b1e6272b-6b11-4a55-925d-cdebdb2e0a64",
+          "account": null,
+          "asset_external_field_name": "guid"
+        },
+        "rights_system": null,
+        "asset_provider": {
+          "id": "ngs_rights_vendor:SPI",
+          "asset_id": "1215226",
+          "uri": null
+        },
+        "renditions": [
+          {
+            "width": "133",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.adapt.133.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 130px)"
+          },
+          {
+            "width": "152",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.adapt.152.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 150px)"
+          },
+          {
+            "width": "162",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.adapt.162.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 160px)"
+          },
+          {
+            "width": "210",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.adapt.210.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 205px)"
+          },
+          {
+            "width": "224",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.adapt.224.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 220px)"
+          },
+          {
+            "width": "225",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.adapt.225.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 225px)"
+          },
+          {
+            "width": "280",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.adapt.280.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 280px)"
+          },
+          {
+            "width": "352",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.adapt.352.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 352px)"
+          },
+          {
+            "width": "470",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.adapt.470.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 470px)"
+          },
+          {
+            "width": "536",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.adapt.536.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 536px)"
+          },
+          {
+            "width": "590",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.adapt.590.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 590px)"
+          },
+          {
+            "width": "676",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.adapt.676.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 676px)"
+          },
+          {
+            "width": "710",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.adapt.710.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 710px)"
+          },
+          {
+            "width": "768",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.adapt.768.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 768px)"
+          },
+          {
+            "width": "885",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.adapt.885.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 885px)"
+          },
+          {
+            "width": "945",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.adapt.945.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 945px)"
+          },
+          {
+            "width": "1190",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.adapt.1190.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1190px)"
+          },
+          {
+            "width": "1900",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-11-11-2020_nationalgeographic_1215226.adapt.1900.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1900px)"
+          }
+        ],
+        "croppings": []
+      },
+      "internal": true,
+      "pageUrl": "https://www.nationalgeographic.com/photography/photo-of-the-day/2020/11/arlington-cemetery-roosevelt-soldier/",
+      "publishDate": "November 11, 2020",
+      "social": {
+        "og:title": "Armistice Day | Nat Geo Photo of the Day",
+        "og:description": "President Franklin Delano Roosevelt leads a ceremony at the Tomb of the Unknown Soldier on Armistice Day in 1936 in this image from our photography archives.",
+        "twitter:site": "@NatGeo"
+      }
+    },
+    {
+      "image": {
+        "id": "899ceaff-77ec-4857-9ed0-bb0a3016848c",
+        "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.jpg",
+        "title": "Taxi Driver",
+        "caption": "Idling at a market, a Uygur motorcycle taxi driver waits for his next fare in Kashgar, Xinjiang Province, China. Job opportunities for the Muslim minority people group in western China are scarce.",
+        "credit": "Photograph by Carolyn Drake, Nat Geo Image Collection",
+        "asset_source": null,
+        "alt_text": "A man on a motorcycle taxi waiting for his next fare at a market in Kashgar, China",
+        "aspect_ratio": 0.66650390625,
+        "height": 1365,
+        "width": 2048,
+        "source_system": {
+          "id": "aem-us",
+          "asset_id": "899ceaff-77ec-4857-9ed0-bb0a3016848c",
+          "account": null,
+          "asset_external_field_name": "guid"
+        },
+        "rights_system": null,
+        "asset_provider": {
+          "id": "ngs_rights_vendor:SPI",
+          "asset_id": "1270560",
+          "uri": null
+        },
+        "renditions": [
+          {
+            "width": "133",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.adapt.133.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 130px)"
+          },
+          {
+            "width": "152",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.adapt.152.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 150px)"
+          },
+          {
+            "width": "162",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.adapt.162.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 160px)"
+          },
+          {
+            "width": "210",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.adapt.210.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 205px)"
+          },
+          {
+            "width": "224",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.adapt.224.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 220px)"
+          },
+          {
+            "width": "225",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.adapt.225.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 225px)"
+          },
+          {
+            "width": "280",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.adapt.280.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 280px)"
+          },
+          {
+            "width": "352",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.adapt.352.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 352px)"
+          },
+          {
+            "width": "470",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.adapt.470.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 470px)"
+          },
+          {
+            "width": "536",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.adapt.536.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 536px)"
+          },
+          {
+            "width": "590",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.adapt.590.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 590px)"
+          },
+          {
+            "width": "676",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.adapt.676.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 676px)"
+          },
+          {
+            "width": "710",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.adapt.710.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 710px)"
+          },
+          {
+            "width": "768",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.adapt.768.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 768px)"
+          },
+          {
+            "width": "885",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.adapt.885.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 885px)"
+          },
+          {
+            "width": "945",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.adapt.945.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 945px)"
+          },
+          {
+            "width": "1190",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.adapt.1190.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1190px)"
+          },
+          {
+            "width": "1900",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-10-11-2020_nationalgeographic_1270560.adapt.1900.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1900px)"
+          }
+        ],
+        "croppings": []
+      },
+      "internal": true,
+      "pageUrl": "https://www.nationalgeographic.com/photography/photo-of-the-day/2020/11/motorcycle-china-uygur-xinjiang/",
+      "publishDate": "November 10, 2020",
+      "social": {
+        "og:title": "Taxi Driver | Nat Geo Photo of the Day",
+        "og:description": "A Uygur motorcycle taxi driver awaits his next fare at a market in Kashgar, China, in this image from our photography archives.",
+        "twitter:site": "@NatGeo"
+      }
+    },
+    {
+      "image": {
+        "id": "8eaa5819-c3b0-4cba-9c09-98e21895d32e",
+        "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.jpg",
+        "title": "Following the Scent",
+        "caption": "Canine athletes follow scented bait in a hound trailing event in England's Lake District. The sport is similar to fox hunting, without the live prey. Dogs can hit 30 miles an hour during the race.",
+        "credit": "Photograph by Annie Griffiths, Nat Geo Image Collection",
+        "asset_source": null,
+        "alt_text": "Hound dogs jumping over a stone fence during a hound trailing event",
+        "aspect_ratio": 0.66796875,
+        "height": 1368,
+        "width": 2048,
+        "source_system": {
+          "id": "aem-us",
+          "asset_id": "8eaa5819-c3b0-4cba-9c09-98e21895d32e",
+          "account": null,
+          "asset_external_field_name": "guid"
+        },
+        "rights_system": null,
+        "asset_provider": {
+          "id": "ngs_rights_vendor:SPI",
+          "asset_id": "492257",
+          "uri": null
+        },
+        "renditions": [
+          {
+            "width": "133",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.adapt.133.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 130px)"
+          },
+          {
+            "width": "152",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.adapt.152.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 150px)"
+          },
+          {
+            "width": "162",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.adapt.162.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 160px)"
+          },
+          {
+            "width": "210",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.adapt.210.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 205px)"
+          },
+          {
+            "width": "224",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.adapt.224.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 220px)"
+          },
+          {
+            "width": "225",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.adapt.225.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 225px)"
+          },
+          {
+            "width": "280",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.adapt.280.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 280px)"
+          },
+          {
+            "width": "352",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.adapt.352.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 352px)"
+          },
+          {
+            "width": "470",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.adapt.470.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 470px)"
+          },
+          {
+            "width": "536",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.adapt.536.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 536px)"
+          },
+          {
+            "width": "590",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.adapt.590.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 590px)"
+          },
+          {
+            "width": "676",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.adapt.676.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 676px)"
+          },
+          {
+            "width": "710",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.adapt.710.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 710px)"
+          },
+          {
+            "width": "768",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.adapt.768.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 768px)"
+          },
+          {
+            "width": "885",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.adapt.885.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 885px)"
+          },
+          {
+            "width": "945",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.adapt.945.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 945px)"
+          },
+          {
+            "width": "1190",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.adapt.1190.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1190px)"
+          },
+          {
+            "width": "1900",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-09-11-2020_nationalgeographic_492257.adapt.1900.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1900px)"
+          }
+        ],
+        "croppings": []
+      },
+      "internal": true,
+      "pageUrl": "https://www.nationalgeographic.com/photography/photo-of-the-day/2020/11/england-hound-dogs-trailing/",
+      "publishDate": "November 9, 2020",
+      "social": {
+        "og:title": "Following the Scent | Nat Geo Photo of the Day",
+        "og:description": "Canine athletes chase a scent in a hound trailing event in this image from our photography archives.",
+        "twitter:site": "@NatGeo"
+      }
+    },
+    {
+      "image": {
+        "id": "ff032fd1-d667-4b0b-b7aa-126fef7a289d",
+        "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.jpg",
+        "title": "Teachers in Training",
+        "caption": "Spellbound students compound nitrobenzene at Kenya Science Teachers College in the 1960s. The school is now known as the Kenya Science Campus, as part of the University of Nairobi, and offers a bachelor's degree in science education.",
+        "credit": "Photograph by Bruce Dale, Nat Geo Image Collection",
+        "asset_source": null,
+        "alt_text": "Two college students staring at a glass pipette full of liquid",
+        "aspect_ratio": 0.6943359375,
+        "height": 1422,
+        "width": 2048,
+        "source_system": {
+          "id": "aem-us",
+          "asset_id": "ff032fd1-d667-4b0b-b7aa-126fef7a289d",
+          "account": null,
+          "asset_external_field_name": "guid"
+        },
+        "rights_system": null,
+        "asset_provider": {
+          "id": "ngs_rights_vendor:SPI",
+          "asset_id": "164330",
+          "uri": null
+        },
+        "renditions": [
+          {
+            "width": "133",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.adapt.133.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 130px)"
+          },
+          {
+            "width": "152",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.adapt.152.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 150px)"
+          },
+          {
+            "width": "162",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.adapt.162.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 160px)"
+          },
+          {
+            "width": "210",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.adapt.210.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 205px)"
+          },
+          {
+            "width": "224",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.adapt.224.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 220px)"
+          },
+          {
+            "width": "225",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.adapt.225.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 225px)"
+          },
+          {
+            "width": "280",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.adapt.280.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 280px)"
+          },
+          {
+            "width": "352",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.adapt.352.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 352px)"
+          },
+          {
+            "width": "470",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.adapt.470.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 470px)"
+          },
+          {
+            "width": "536",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.adapt.536.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 536px)"
+          },
+          {
+            "width": "590",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.adapt.590.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 590px)"
+          },
+          {
+            "width": "676",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.adapt.676.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 676px)"
+          },
+          {
+            "width": "710",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.adapt.710.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 710px)"
+          },
+          {
+            "width": "768",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.adapt.768.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 768px)"
+          },
+          {
+            "width": "885",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.adapt.885.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 885px)"
+          },
+          {
+            "width": "945",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.adapt.945.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 945px)"
+          },
+          {
+            "width": "1190",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.adapt.1190.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1190px)"
+          },
+          {
+            "width": "1900",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-08-11-2020_nationalgeographic_164330.adapt.1900.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1900px)"
+          }
+        ],
+        "croppings": []
+      },
+      "internal": true,
+      "pageUrl": "https://www.nationalgeographic.com/photography/photo-of-the-day/2020/11/kenya-science-college-students/",
+      "publishDate": "November 8, 2020",
+      "social": {
+        "og:title": "Teachers in Training | Nat Geo Photo of the Day",
+        "og:description": "Students at the Kenya Science Teachers College in the 1960s compound nitrobenzene in this image from our photography archives.",
+        "twitter:site": "@NatGeo"
+      }
+    },
+    {
+      "image": {
+        "id": "290db2e8-ae98-461b-9ef2-d7d221e3461e",
+        "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.jpg",
+        "title": "Lending Library",
+        "caption": "In this photo from the April 1947 issue, people in Hong Kong have become engrossed in stories they just borrowed from a sidewalk lending library. The original caption states that one could buy 13 stories for one cent.",
+        "credit": "Photograph by Three Lions Inc, Nat Geo Image Collection",
+        "asset_source": null,
+        "alt_text": "People sitting on a sidewalk reading with a wall of illustrated stories behind them",
+        "aspect_ratio": 0.80322265625,
+        "height": 1645,
+        "width": 2048,
+        "source_system": {
+          "id": "aem-us",
+          "asset_id": "290db2e8-ae98-461b-9ef2-d7d221e3461e",
+          "account": null,
+          "asset_external_field_name": "guid"
+        },
+        "rights_system": null,
+        "asset_provider": {
+          "id": "ngs_rights_vendor:SPI",
+          "asset_id": "941587",
+          "uri": null
+        },
+        "renditions": [
+          {
+            "width": "133",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.adapt.133.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 130px)"
+          },
+          {
+            "width": "152",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.adapt.152.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 150px)"
+          },
+          {
+            "width": "162",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.adapt.162.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 160px)"
+          },
+          {
+            "width": "210",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.adapt.210.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 205px)"
+          },
+          {
+            "width": "224",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.adapt.224.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 220px)"
+          },
+          {
+            "width": "225",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.adapt.225.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 225px)"
+          },
+          {
+            "width": "280",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.adapt.280.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 280px)"
+          },
+          {
+            "width": "352",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.adapt.352.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 352px)"
+          },
+          {
+            "width": "470",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.adapt.470.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 470px)"
+          },
+          {
+            "width": "536",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.adapt.536.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 536px)"
+          },
+          {
+            "width": "590",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.adapt.590.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 590px)"
+          },
+          {
+            "width": "676",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.adapt.676.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 676px)"
+          },
+          {
+            "width": "710",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.adapt.710.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 710px)"
+          },
+          {
+            "width": "768",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.adapt.768.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 768px)"
+          },
+          {
+            "width": "885",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.adapt.885.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 885px)"
+          },
+          {
+            "width": "945",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.adapt.945.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 945px)"
+          },
+          {
+            "width": "1190",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.adapt.1190.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1190px)"
+          },
+          {
+            "width": "1900",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-07-11-2020_nationalgeographic_941587.adapt.1900.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1900px)"
+          }
+        ],
+        "croppings": []
+      },
+      "internal": true,
+      "pageUrl": "https://www.nationalgeographic.com/photography/photo-of-the-day/2020/11/hong-kong-library-reading/",
+      "publishDate": "November 7, 2020",
+      "social": {
+        "og:title": "Lending Library | Nat Geo Photo of the Day",
+        "og:description": "Enthralled readers sit on the sidewalk in front of a lending library in Hong Kong in this image from our photography archives.",
+        "twitter:site": "@NatGeo"
+      }
+    },
+    {
+      "image": {
+        "id": "66d5c6a1-7cdf-45e8-ba85-aae42b4ece56",
+        "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.jpg",
+        "title": "Sunset Meditations",
+        "caption": "Village elders meditate on the sunset from an outcropping above Debre Sina, Eritrea. A story in the June 1996 issue told of the new country's victory in claiming independence from Ethiopia after 30 years of war.",
+        "credit": "Photograph by Robert Caputo, Nat Geo Image Collection",
+        "asset_source": null,
+        "alt_text": "Elderly men in Eritrea dressed in white cloths and sitting on a rock outcropping while meditating",
+        "aspect_ratio": 0.671875,
+        "height": 1376,
+        "width": 2048,
+        "source_system": {
+          "id": "aem-us",
+          "asset_id": "66d5c6a1-7cdf-45e8-ba85-aae42b4ece56",
+          "account": null,
+          "asset_external_field_name": "guid"
+        },
+        "rights_system": null,
+        "asset_provider": {
+          "id": "ngs_rights_vendor:SPI",
+          "asset_id": "505321",
+          "uri": null
+        },
+        "renditions": [
+          {
+            "width": "133",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.adapt.133.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 130px)"
+          },
+          {
+            "width": "152",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.adapt.152.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 150px)"
+          },
+          {
+            "width": "162",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.adapt.162.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 160px)"
+          },
+          {
+            "width": "210",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.adapt.210.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 205px)"
+          },
+          {
+            "width": "224",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.adapt.224.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 220px)"
+          },
+          {
+            "width": "225",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.adapt.225.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 225px)"
+          },
+          {
+            "width": "280",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.adapt.280.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 280px)"
+          },
+          {
+            "width": "352",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.adapt.352.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 352px)"
+          },
+          {
+            "width": "470",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.adapt.470.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 470px)"
+          },
+          {
+            "width": "536",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.adapt.536.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 536px)"
+          },
+          {
+            "width": "590",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.adapt.590.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 590px)"
+          },
+          {
+            "width": "676",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.adapt.676.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 676px)"
+          },
+          {
+            "width": "710",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.adapt.710.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 710px)"
+          },
+          {
+            "width": "768",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.adapt.768.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 768px)"
+          },
+          {
+            "width": "885",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.adapt.885.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 885px)"
+          },
+          {
+            "width": "945",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.adapt.945.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 945px)"
+          },
+          {
+            "width": "1190",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.adapt.1190.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1190px)"
+          },
+          {
+            "width": "1900",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-06-11-2020_nationalgeographic_505321.adapt.1900.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1900px)"
+          }
+        ],
+        "croppings": []
+      },
+      "internal": true,
+      "pageUrl": "https://www.nationalgeographic.com/photography/photo-of-the-day/2020/11/eritrea-sunset-village-elders/",
+      "publishDate": "November 6, 2020",
+      "social": {
+        "og:title": "Sunset Meditations | Nat Geo Photo of the Day",
+        "og:description": "Village elders meditate on the sunset on an outcropping over Debre Sina, Eritrea, in this image from our photography archives.",
+        "twitter:site": "@NatGeo"
+      }
+    },
+    {
+      "image": {
+        "id": "0565ea5a-d7e4-427b-8da6-694707c0907e",
+        "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.jpg",
+        "title": "Blue Barn",
+        "caption": "In Párnica, Slovakia, a woman feeds chickens perched in the window of a barn.",
+        "credit": "Photograph by John Eastcott and Yva Momatiuk, Nat Geo Image Collection",
+        "asset_source": null,
+        "alt_text": "A woman in a head scarf feeds chickens perched in a window of a blue barn in Slovakia",
+        "aspect_ratio": 0.66357421875,
+        "height": 1359,
+        "width": 2048,
+        "source_system": {
+          "id": "aem-us",
+          "asset_id": "0565ea5a-d7e4-427b-8da6-694707c0907e",
+          "account": null,
+          "asset_external_field_name": "guid"
+        },
+        "rights_system": null,
+        "asset_provider": {
+          "id": "ngs_rights_vendor:SPI",
+          "asset_id": "61564",
+          "uri": null
+        },
+        "renditions": [
+          {
+            "width": "133",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.adapt.133.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 130px)"
+          },
+          {
+            "width": "152",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.adapt.152.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 150px)"
+          },
+          {
+            "width": "162",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.adapt.162.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 160px)"
+          },
+          {
+            "width": "210",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.adapt.210.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 205px)"
+          },
+          {
+            "width": "224",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.adapt.224.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 220px)"
+          },
+          {
+            "width": "225",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.adapt.225.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 225px)"
+          },
+          {
+            "width": "280",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.adapt.280.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 280px)"
+          },
+          {
+            "width": "352",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.adapt.352.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 352px)"
+          },
+          {
+            "width": "470",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.adapt.470.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 470px)"
+          },
+          {
+            "width": "536",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.adapt.536.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 536px)"
+          },
+          {
+            "width": "590",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.adapt.590.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 590px)"
+          },
+          {
+            "width": "676",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.adapt.676.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 676px)"
+          },
+          {
+            "width": "710",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.adapt.710.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 710px)"
+          },
+          {
+            "width": "768",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.adapt.768.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 768px)"
+          },
+          {
+            "width": "885",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.adapt.885.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 885px)"
+          },
+          {
+            "width": "945",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.adapt.945.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 945px)"
+          },
+          {
+            "width": "1190",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.adapt.1190.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1190px)"
+          },
+          {
+            "width": "1900",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-05-11-2020_nationalgeographic_61564.adapt.1900.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1900px)"
+          }
+        ],
+        "croppings": []
+      },
+      "internal": true,
+      "pageUrl": "https://www.nationalgeographic.com/photography/photo-of-the-day/2020/11/slovakia-barn-chickens-woman/",
+      "publishDate": "November 5, 2020",
+      "social": {
+        "og:title": "Blue Barn | Nat Geo Photo of the Day",
+        "og:description": "A woman in Slovakia feeds chickens perching on the window of a barn in this image from our photography archives.",
+        "twitter:site": "@NatGeo"
+      }
+    },
+    {
+      "image": {
+        "id": "176724e4-77c3-4c60-bacf-da26aef40a27",
+        "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.jpg",
+        "title": "Starry Night",
+        "caption": "A long exposure shows the movement of stars over Llullaillaco, Andes Mountains, Chile. The peak of this dormant volcano is more than 22,000 feet high and last erupted in 1877.",
+        "credit": "Photograph by Maria Stenzel, Nat Geo Image Collection",
+        "asset_source": null,
+        "alt_text": "Star trails over a dormant volcano in the Andes Mountains",
+        "aspect_ratio": 0.658203125,
+        "height": 1348,
+        "width": 2048,
+        "source_system": {
+          "id": "aem-us",
+          "asset_id": "176724e4-77c3-4c60-bacf-da26aef40a27",
+          "account": null,
+          "asset_external_field_name": "guid"
+        },
+        "rights_system": null,
+        "asset_provider": {
+          "id": "ngs_rights_vendor:SPI",
+          "asset_id": "52788",
+          "uri": null
+        },
+        "renditions": [
+          {
+            "width": "133",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.adapt.133.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 130px)"
+          },
+          {
+            "width": "152",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.adapt.152.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 150px)"
+          },
+          {
+            "width": "162",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.adapt.162.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 160px)"
+          },
+          {
+            "width": "210",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.adapt.210.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 205px)"
+          },
+          {
+            "width": "224",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.adapt.224.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 220px)"
+          },
+          {
+            "width": "225",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.adapt.225.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 225px)"
+          },
+          {
+            "width": "280",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.adapt.280.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 280px)"
+          },
+          {
+            "width": "352",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.adapt.352.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 352px)"
+          },
+          {
+            "width": "470",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.adapt.470.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 470px)"
+          },
+          {
+            "width": "536",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.adapt.536.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 536px)"
+          },
+          {
+            "width": "590",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.adapt.590.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 590px)"
+          },
+          {
+            "width": "676",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.adapt.676.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 676px)"
+          },
+          {
+            "width": "710",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.adapt.710.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 710px)"
+          },
+          {
+            "width": "768",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.adapt.768.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 768px)"
+          },
+          {
+            "width": "885",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.adapt.885.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 885px)"
+          },
+          {
+            "width": "945",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.adapt.945.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 945px)"
+          },
+          {
+            "width": "1190",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.adapt.1190.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1190px)"
+          },
+          {
+            "width": "1900",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-04-11-2020_nationalgeographic_52788.adapt.1900.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1900px)"
+          }
+        ],
+        "croppings": []
+      },
+      "internal": true,
+      "pageUrl": "https://www.nationalgeographic.com/photography/photo-of-the-day/2020/11/andes-mountains-stars-volcano/",
+      "publishDate": "November 4, 2020",
+      "social": {
+        "og:title": "Starry Night | Nat Geo Photo of the Day",
+        "og:description": "A long exposure shows the movement of stars over Llullaillaco, a dormant volcano in the Andes Mountains, in this image from our photography archives.",
+        "twitter:site": "@NatGeo"
+      }
+    },
+    {
+      "image": {
+        "id": "a7637915-5a35-4f04-a3bb-dc2bfe00da26",
+        "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.jpg",
+        "title": "Presidential Address",
+        "caption": "In the U.S. Capitol Rotunda, President Lyndon B. Johnson delivers remarks at the signing of the Voting Rights Act of 1965. The VRA, which ensured protections for voters of all races, was gutted by a 2013 U.S.Supreme Court ruling that claimed a key section of the legislation was no longer relevant.",
+        "credit": "Photograph by Joe Scherschel, Nat Geo Image Collection",
+        "asset_source": null,
+        "alt_text": "President Lyndon B. Johnson speaking in front of a crowd inside the U.S. Capitol Rotunda",
+        "aspect_ratio": 0.6796875,
+        "height": 1392,
+        "width": 2048,
+        "source_system": {
+          "id": "aem-us",
+          "asset_id": "a7637915-5a35-4f04-a3bb-dc2bfe00da26",
+          "account": null,
+          "asset_external_field_name": "guid"
+        },
+        "rights_system": null,
+        "asset_provider": {
+          "id": "ngs_rights_vendor:SPI",
+          "asset_id": "1054115",
+          "uri": null
+        },
+        "renditions": [
+          {
+            "width": "133",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.adapt.133.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 130px)"
+          },
+          {
+            "width": "152",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.adapt.152.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 150px)"
+          },
+          {
+            "width": "162",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.adapt.162.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 160px)"
+          },
+          {
+            "width": "210",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.adapt.210.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 205px)"
+          },
+          {
+            "width": "224",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.adapt.224.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 220px)"
+          },
+          {
+            "width": "225",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.adapt.225.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 225px)"
+          },
+          {
+            "width": "280",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.adapt.280.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 280px)"
+          },
+          {
+            "width": "352",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.adapt.352.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 352px)"
+          },
+          {
+            "width": "470",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.adapt.470.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 470px)"
+          },
+          {
+            "width": "536",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.adapt.536.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 536px)"
+          },
+          {
+            "width": "590",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.adapt.590.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 590px)"
+          },
+          {
+            "width": "676",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.adapt.676.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 676px)"
+          },
+          {
+            "width": "710",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.adapt.710.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 710px)"
+          },
+          {
+            "width": "768",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.adapt.768.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 768px)"
+          },
+          {
+            "width": "885",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.adapt.885.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 885px)"
+          },
+          {
+            "width": "945",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.adapt.945.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 945px)"
+          },
+          {
+            "width": "1190",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.adapt.1190.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1190px)"
+          },
+          {
+            "width": "1900",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-03-11-2020_nationalgeographic_1054115.adapt.1900.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1900px)"
+          }
+        ],
+        "croppings": []
+      },
+      "internal": true,
+      "pageUrl": "https://www.nationalgeographic.com/photography/photo-of-the-day/2020/11/capitol-rotunda-lyndon-johnson/",
+      "publishDate": "November 3, 2020",
+      "social": {
+        "og:title": "Presidential Address | Nat Geo Photo of the Day",
+        "og:description": "President Lyndon B. Johnson announces victory for the 1965 Voting Rights Act in the U.S. Capitol Rotunda in this image from our photography archives.",
+        "twitter:site": "@NatGeo"
+      }
+    },
+    {
+      "image": {
+        "id": "61836e9e-5478-426e-b4fc-2086fd9078f0",
+        "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.jpg",
+        "title": "Sorting Mail",
+        "caption": "A story in the July 1954 issue sang the praises of the United States Postal Service, calling it \"everyone's servant.\" Here, workers at a post office in New York sort through airmail letters.",
+        "credit": "Photograph by Volkmar Wentzel, Nat Geo Image Collection",
+        "asset_source": null,
+        "alt_text": "Postal workers sorting mail at a facility in New York in the 1950s",
+        "aspect_ratio": 0.67236328125,
+        "height": 1377,
+        "width": 2048,
+        "source_system": {
+          "id": "aem-us",
+          "asset_id": "61836e9e-5478-426e-b4fc-2086fd9078f0",
+          "account": null,
+          "asset_external_field_name": "guid"
+        },
+        "rights_system": null,
+        "asset_provider": {
+          "id": "ngs_rights_vendor:SPI",
+          "asset_id": "1106424",
+          "uri": null
+        },
+        "renditions": [
+          {
+            "width": "133",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.adapt.133.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 130px)"
+          },
+          {
+            "width": "152",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.adapt.152.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 150px)"
+          },
+          {
+            "width": "162",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.adapt.162.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 160px)"
+          },
+          {
+            "width": "210",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.adapt.210.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 205px)"
+          },
+          {
+            "width": "224",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.adapt.224.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 220px)"
+          },
+          {
+            "width": "225",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.adapt.225.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 225px)"
+          },
+          {
+            "width": "280",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.adapt.280.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 280px)"
+          },
+          {
+            "width": "352",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.adapt.352.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 352px)"
+          },
+          {
+            "width": "470",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.adapt.470.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 470px)"
+          },
+          {
+            "width": "536",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.adapt.536.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 536px)"
+          },
+          {
+            "width": "590",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.adapt.590.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 590px)"
+          },
+          {
+            "width": "676",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.adapt.676.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 676px)"
+          },
+          {
+            "width": "710",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.adapt.710.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 710px)"
+          },
+          {
+            "width": "768",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.adapt.768.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 768px)"
+          },
+          {
+            "width": "885",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.adapt.885.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 885px)"
+          },
+          {
+            "width": "945",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.adapt.945.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 945px)"
+          },
+          {
+            "width": "1190",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.adapt.1190.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1190px)"
+          },
+          {
+            "width": "1900",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-02-11-2020_nationalgeographic_1106424.adapt.1900.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1900px)"
+          }
+        ],
+        "croppings": []
+      },
+      "internal": true,
+      "pageUrl": "https://www.nationalgeographic.com/photography/photo-of-the-day/2020/11/postal-service-mail-sorting/",
+      "publishDate": "November 2, 2020",
+      "social": {
+        "og:title": "Sorting Mail | Nat Geo Photo of the Day",
+        "og:description": "Postal workers sort airmail at a facility in New York in the 1950s in this image from our photography archives.",
+        "twitter:site": "@NatGeo"
+      }
+    },
+    {
+      "image": {
+        "id": "aec50796-6f4c-4dd7-be17-5bfd53671e92",
+        "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.jpg",
+        "title": "Baby Panda",
+        "caption": "Tai Shan, whose name means Peaceful Mountain, was the first giant panda born at the Smithsonian's National Zoo in Washington, D.C., to survive infancy. Now 15 years old, Tai Shan lives at the China Conservation and Research Center for the Giant Panda.",
+        "credit": "Photograph by Michael Nichols, Nat Geo Image Collection",
+        "asset_source": null,
+        "alt_text": "A year-old panda cub in an indoor inclosure at Smithsonian's National Zoo in Washington, DC",
+        "aspect_ratio": 0.6669921875,
+        "height": 1366,
+        "width": 2048,
+        "source_system": {
+          "id": "aem-us",
+          "asset_id": "aec50796-6f4c-4dd7-be17-5bfd53671e92",
+          "account": null,
+          "asset_external_field_name": "guid"
+        },
+        "rights_system": null,
+        "asset_provider": {
+          "id": "ngs_rights_vendor:SPI",
+          "asset_id": "1012607",
+          "uri": null
+        },
+        "renditions": [
+          {
+            "width": "133",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.adapt.133.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 130px)"
+          },
+          {
+            "width": "152",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.adapt.152.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 150px)"
+          },
+          {
+            "width": "162",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.adapt.162.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 160px)"
+          },
+          {
+            "width": "210",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.adapt.210.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 205px)"
+          },
+          {
+            "width": "224",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.adapt.224.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 220px)"
+          },
+          {
+            "width": "225",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.adapt.225.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 225px)"
+          },
+          {
+            "width": "280",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.adapt.280.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 280px)"
+          },
+          {
+            "width": "352",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.adapt.352.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 352px)"
+          },
+          {
+            "width": "470",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.adapt.470.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 470px)"
+          },
+          {
+            "width": "536",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.adapt.536.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 536px)"
+          },
+          {
+            "width": "590",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.adapt.590.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 590px)"
+          },
+          {
+            "width": "676",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.adapt.676.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 676px)"
+          },
+          {
+            "width": "710",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.adapt.710.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 710px)"
+          },
+          {
+            "width": "768",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.adapt.768.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 768px)"
+          },
+          {
+            "width": "885",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.adapt.885.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 885px)"
+          },
+          {
+            "width": "945",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.adapt.945.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 945px)"
+          },
+          {
+            "width": "1190",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.adapt.1190.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1190px)"
+          },
+          {
+            "width": "1900",
+            "uri": "https://www.nationalgeographic.com/content/dam/photography/photo-of-the-day/2020/11/pod-01-11-2020_nationalgeographic_1012607.adapt.1900.1.jpg",
+            "density": "1",
+            "media-selector": "(max-width: 1900px)"
+          }
+        ],
+        "croppings": []
+      },
+      "internal": true,
+      "pageUrl": "https://www.nationalgeographic.com/photography/photo-of-the-day/2020/11/panda-smithsonian-national-zoo/",
+      "publishDate": "November 1, 2020",
+      "social": {
+        "og:title": "Baby Panda | Nat Geo Photo of the Day",
+        "og:description": "Tai Shan, the first giant panda to survive infancy at Smithsonian's National Zoo in Washington, D.C., seemingly waves to his fans in this image from our photography archives.",
+        "twitter:site": "@NatGeo"
+      }
+    }
+  ]
+}
