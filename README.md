@@ -15,3 +15,7 @@ $ pip isntall -r requirements.txt
 ```bash
 $ python ./download.py
 ```
+
+## Archive
+
+Files are downloaded to `YYYY/MM/DD.jpg`.
