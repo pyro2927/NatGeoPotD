@@ -49,8 +49,11 @@ def download_the_photos(natgeo_json_data):
         except:
             print("Unable to pull author name from {}".format(photo["image"]["credit"]))
         # write exif back
-        exif_bytes = piexif.dump(exif_dict)
-        im.save(dest, "jpeg", exif=exif_bytes)
+        try:
+            exif_bytes = piexif.dump(exif_dict)
+            im.save(dest, "jpeg", exif=exif_bytes)
+        except:
+            print("Error writing exif data back :(")
 
 if __name__ == '__main__':
     dt = date.today()
